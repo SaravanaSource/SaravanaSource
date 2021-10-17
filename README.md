@@ -7,8 +7,8 @@ ABOUT:
 BIO:
  
 - 🌱 I'm currently pursuing my Natural Language Processing  specialization in Artificial Intelligence from Deep learning AI throug Coursera.
-- 🎓 I  completed my Machine Learning course from Stanford and obtained Deep learning Specicalization from 
-      Deep learing.AI through coursera.I Completed BE from SSN-chennai  With Full term Scholarship From SSN (Merit- 4 years).  
+- 🎓 I  completed my Machine Learning course from Stanford University and obtained Deep learning Specicalization from 
+      Deep learing.AI through coursera. I Completed BE from SSN-chennai  With Full term Scholarship From SSN (Merit- 4 years).  
 
 
 
