@@ -1,5 +1,5 @@
 ABOUT:
-- 🔭  I'm a passionate Data Analyst working in E-commerce Domain and Enthusiast in  AI, Machine Learning, Deep Learning, Computer Vision, and NLP. I have worked on various levels       of ML and DL tasks & projects.
+- 🔭  I'm a passionate Data Analyst working in Groupon and Enthusiast in  AI, Machine Learning, Deep Learning, Computer Vision, and NLP. I have worked on various levels       of ML and DL tasks & projects.
 - 💬 My personal mission is to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
 - 👀 I’m interested in  collaborating with fellow enthusiasts in the field of AI. If you have an idea related to my areas of interest, 
       feel free to shoot me an email!
